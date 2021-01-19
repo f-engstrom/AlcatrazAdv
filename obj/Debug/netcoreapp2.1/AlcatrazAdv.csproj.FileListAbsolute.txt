@@ -1,0 +1,10 @@
+C:\Users\Frans\Dropbox\Projects\AlcatrazAdv\bin\Debug\netcoreapp2.1\AlcatrazAdv.deps.json
+C:\Users\Frans\Dropbox\Projects\AlcatrazAdv\bin\Debug\netcoreapp2.1\AlcatrazAdv.runtimeconfig.json
+C:\Users\Frans\Dropbox\Projects\AlcatrazAdv\bin\Debug\netcoreapp2.1\AlcatrazAdv.runtimeconfig.dev.json
+C:\Users\Frans\Dropbox\Projects\AlcatrazAdv\bin\Debug\netcoreapp2.1\AlcatrazAdv.dll
+C:\Users\Frans\Dropbox\Projects\AlcatrazAdv\bin\Debug\netcoreapp2.1\AlcatrazAdv.pdb
+C:\Users\Frans\Dropbox\Projects\AlcatrazAdv\obj\Debug\netcoreapp2.1\AlcatrazAdv.csprojAssemblyReference.cache
+C:\Users\Frans\Dropbox\Projects\AlcatrazAdv\obj\Debug\netcoreapp2.1\AlcatrazAdv.AssemblyInfoInputs.cache
+C:\Users\Frans\Dropbox\Projects\AlcatrazAdv\obj\Debug\netcoreapp2.1\AlcatrazAdv.AssemblyInfo.cs
+C:\Users\Frans\Dropbox\Projects\AlcatrazAdv\obj\Debug\netcoreapp2.1\AlcatrazAdv.dll
+C:\Users\Frans\Dropbox\Projects\AlcatrazAdv\obj\Debug\netcoreapp2.1\AlcatrazAdv.pdb
